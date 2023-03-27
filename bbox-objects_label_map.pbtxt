@@ -1,0 +1,55 @@
+item {
+    name: "Foreign",
+    id: 1,
+    display_name: "Foreign"
+}
+item {
+    name: "Gold",
+    id: 2,
+    display_name: "Gold"
+}
+item {
+    name: "Incomp",
+    id: 3,
+    display_name: "Incomp"
+}
+item {
+    name: "Lump",
+    id: 4,
+    display_name: "Lump"
+}
+item {
+    name: "Raw_I",
+    id: 5,
+    display_name: "Raw_I"
+}
+item {
+    name: "Raw_II",
+    id: 6,
+    display_name: "Raw_II"
+}
+item {
+    name: "Raw_IV",
+    id: 7,
+    display_name: "Raw_IV"
+}
+item {
+    name: "Raw_V",
+    id: 8,
+    display_name: "Raw_V"
+}
+item {
+    name: "Res",
+    id: 9,
+    display_name: "Res"
+}
+item {
+    name: "Scratch",
+    id: 10,
+    display_name: "Scratch"
+}
+item {
+    name: "UBM",
+    id: 11,
+    display_name: "UBM"
+}
